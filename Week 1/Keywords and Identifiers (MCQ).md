@@ -8,7 +8,7 @@
 - C. _var
 - D. (var)
 
-**Answer 1 :-** 
+**Answer 1 :- A. 11var** 
 
 **2. How many keywords are there in python 3.8?**
 - A. 32
@@ -16,7 +16,7 @@
 - C. 31
 - D. 33
 
-**Answer 2 :-**
+**Answer 2 :- B. 35**
 
 **3. What is the maximum length of an identifier in python?**
 - A. 128
