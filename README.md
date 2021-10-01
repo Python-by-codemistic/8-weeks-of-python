@@ -1,7 +1,7 @@
 **Hey folks 👋**<br>
 ***This is an initiative to introduce python from beginners level to advance level.
-We will be start 8 weeks of coding from 8th September 2020.
-You can find list of all the topics on [CodeMistic's website](https://codemistic.in/python.html).***
+We organized this python series from 8th September 2020 till 8 weeks from this date.
+You can find list of all the topics of python on [CodeMistic's website](https://codemistic.github.io).***
 
 **This series will include following features :-**
 -  **Daily MCQ Questions**
@@ -14,4 +14,4 @@ We would love to reshare your progress on our social media handles.***<br>
 Use &nbsp; **#codemistic &nbsp; #8weeksofpython**<br>
 [Instagram](https://www.instagram.com/codemistic.in/) <br>  [ Twitter](https://www.twitter.com/codemistic/)   <br> [Facebook](https://www.facebook.com/codemistic/)  <br>  [Linkedin](https://www.linkedin.com/company/codemistic/)<br><br>
 **Happy Coding!**<br>
-***www.codemistic.in***
+***Team CodeMistic***
