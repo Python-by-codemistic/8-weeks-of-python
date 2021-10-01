@@ -14,4 +14,4 @@ We would love to reshare your progress on our social media handles.***<br>
 Use &nbsp; **#codemistic &nbsp; #8weeksofpython**<br>
 [Instagram](https://www.instagram.com/codemistic.in/) <br>  [ Twitter](https://www.twitter.com/codemistic/)   <br> [Facebook](https://www.facebook.com/codemistic/)  <br>  [Linkedin](https://www.linkedin.com/company/codemistic/)<br><br>
 **Happy Coding!**<br>
-***Team CodeMistic***
+<a href="https://linktr.ee/codemistic>Team CodeMistic</a>
